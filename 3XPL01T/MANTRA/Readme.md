@@ -178,9 +178,69 @@ Swap RAM <br>
 
 Content-Type <br>
 ```𝗺𝘂𝗹𝘁𝗶𝗽𝗮𝗿𝘁/𝗳𝗼𝗿𝗺-𝗱𝗮𝘁𝗮```<br>
-```a𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻/𝘅-𝘄𝘄𝘄-𝗳𝗼𝗿𝗺-𝘂𝗿𝗹𝗲𝗻𝗰𝗼𝗱𝗲𝗱```<br>
-```a𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻/json```
+<br>
 
+```a𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻/𝘅-𝘄𝘄𝘄-𝗳𝗼𝗿𝗺-𝘂𝗿𝗹𝗲𝗻𝗰𝗼𝗱𝗲𝗱```<br>
+```username=johndoe&password=secret123&remember=true```<br>
+<br>
+```a𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻/json```<br>
+```{"name":"John Doe","email":"john@example.com","age":30}```<br>
+<br>
+
+```application/xml```<br>
+```
+<?xml version="1.0" encoding="UTF-8"?>
+<order>
+  <id>12345</id>
+  <customer>John Doe</customer>
+  <total>150.00</total>
+</order>
+```
+<br>
+
+```application/xhtml+xml```<br>
+```
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <head><title>Document</title></head>
+  <body>
+    <h1>Hello World</h1>
+    <p>This is XHTML content</p>
+  </body>
+</html>
+```
+<br>
+
+```application/ld+json```<br>
+```
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "John Doe",
+  "birthDate": "1990-01-01",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "123 Main St",
+    "addressLocality": "New York"
+  }
+}
+```
+<br>
+
+```application/yaml```<br>
+```
+name: John Doe
+email: john@example.com
+age: 30
+address:
+  street: 123 Main St
+  city: New York
+hobbies:
+  - reading
+  - coding
+```
+
+<br>
 
 Header Injection <br>
 ```X-Original-URL: /admin  ```<br>
