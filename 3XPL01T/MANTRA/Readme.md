@@ -28,6 +28,12 @@ find<br>
 ```find f ^/```
 ```\?.*$``` kekanan
 ```^.*\?``` kekiri
+<br>
+find<br>
+```^(.+)$```
+replace <br>
+```'$1',```
+<br>
 
 
 
