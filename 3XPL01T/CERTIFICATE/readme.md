@@ -9,3 +9,6 @@ Sertifikat Vulnerability Bug Universitas Amikom Yogyakarta
 
 Sertifikat Kominfo Tangsel
 <img width="1056" height="752" alt="Screenshot 2026-11-20 173748" src="https://github.com/user-attachments/assets/14df7285-4623-4040-b945-f220a925af54" />
+
+Sertifikat Partisipasi Hackviser
+<img width="1117" height="679" alt="Screenshot 2026-11-20 174458" src="https://github.com/user-attachments/assets/9c3896cf-48d8-4590-971b-eb94c81a4e1f" />
