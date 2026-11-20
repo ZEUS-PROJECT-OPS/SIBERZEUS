@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/license-educational-blue?style=flat-square" alt="license"/>
   <img src="https://img.shields.io/badge/maintainer-Hackercat-critical?style=flat-square" alt="maintainer"/>
 </p>
-<h1 align="center">⚡  SIBERZEUS Security Tools ⚡</h1>
+<h1 align="center">⚡ SIBERZEUS ⚡</h1>
 
 ---
 
