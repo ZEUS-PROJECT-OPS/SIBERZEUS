@@ -286,7 +286,87 @@ http://target.site/index.php?page=../../../../var/log/apache2/access.log&cmd=id
 ```
 
 
+35 Tools for Bug Bounty Hunters:
 
+Subdomain Reconnaissance & Enumeration
+
+1. Amass
+2. Subfinder
+3. Assetfinder
+
+DNS Resolution
+
+4. MassDNS
+5. dnsx
+6. Shuffledns
+
+Port Scanning
+
+7. Nmap
+8. Masscan
+9. Naabu
+
+HTTP Survey
+
+10. httpx
+11. Aquatone
+
+URL Creep & Discovery
+
+12. Katana
+13. GoSpider
+14. Hakrawler
+15. gau
+16. waybackurls
+
+Vulnerability Scanning
+
+17. Nuclei
+
+Proxies & Interception
+
+18. Burp Suite
+19. Caido
+20. mitmproxy
+
+Fuzzing & Content Discovery
+
+21. ffuf
+22. feroxbuster
+23. Dirsearch
+
+Parameter Discovery
+
+24. Arjun
+25. ParamSpider
+
+JS Analysis & Secrets
+
+26. LinkFinder
+27. SecretFinder
+28. TruffleHog
+29. Gitleaks
+
+XSS
+
+30. Dalfox
+
+SQL Injection
+
+31. SQLMap
+
+OOB & Takeovers
+
+32. Interactsh
+33. Subzy
+
+Mobile
+
+34. Frida
+
+Automation
+
+35. bbot
 
 ## 🔗 Contact
 
