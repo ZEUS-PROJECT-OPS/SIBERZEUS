@@ -11,5 +11,5 @@ Sertifikat Kominfo Tangsel
 Sertifikat Partisipasi Hackviser
 <img width="1117" height="679" alt="Screenshot 2026-11-20 174458" src="https://github.com/user-attachments/assets/9c3896cf-48d8-4590-971b-eb94c81a4e1f" />
 
-Sertifikat Apresiasi Mie Ayam Pak dul 
+Sertifikat Apresiasi Mie Ayam Pak dul
 <img width="492" height="660" alt="Screenshot 2026-11-20 175142" src="https://github.com/user-attachments/assets/4ca56f9d-504a-4633-b2e8-d7c33e28b351" />
