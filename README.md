@@ -64,6 +64,7 @@ Feel free to fork, contribute, or suggest improvements. Just keep it clean and l
 This project is licensed under an **open-source educational license**.  
 You are free to use, modify, and share this code under ethical and legal terms.
 
+[![Telegram](https://img.shields.io/badge/Telegram-Join%20Now-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/siberzeus)
 ---
 
 <p align="center"><i>Kind regards,</i><br>
