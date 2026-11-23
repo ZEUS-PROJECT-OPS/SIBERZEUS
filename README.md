@@ -6,6 +6,9 @@
 </p>
 <h1 align="center">⚡ SIBERZEUS ⚡</h1>
 
+<div style="display:flex; justify-content:center; align-items:center; min-height:10vh;">
+  <img src="https://github.com/user-attachments/assets/1a66d1ef-689e-4d53-b587-2cd1dc4cd4e9" alt="siberzeus-logo" style="max-width:10%; height:auto;" />
+</div>
 ---
 
 Welcome to the official repository of **SIBERZEUS**. This repository contains a collection of tools, scripts, and materials focused on cybersecurity—specifically offensive and defensive security techniques.
